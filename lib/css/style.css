@@ -1,5 +1,5 @@
 body {
-    background: green;
+    background-color: rgb(171, 171, 167);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -8,8 +8,7 @@ body {
 .form-container {
     width: 50%;
     height: 100%;
-    border: 6px solid;
-    background-color: blanchedalmond;
+    background-color: rgb(253, 253, 253);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -17,7 +16,7 @@ body {
 
 .form {
     padding: 40px 80px;
-    background-color: blanchedalmond;
+    background-color: rgb(255, 248, 224);
     position: relative;
     display: flex;
     flex-direction: column;
@@ -28,7 +27,7 @@ body {
     font-weight: bold;
     font-size: 32px;
     line-height: 24px;
-    color: rgb(197, 151, 64);
+    color: rgb(3, 2, 0);
     margin-bottom: 4px;
     text-align: center;
 }
@@ -50,7 +49,7 @@ body {
 .form-field-label {
     font-size: 24px;
     line-height: 24px;
-    color: blue;
+    color: rgb(242, 14, 52);
     margin-bottom: 4px;
 }
 
