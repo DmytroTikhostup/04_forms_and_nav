@@ -68,4 +68,11 @@ body {
 
 .form-submit {
     margin-top: 10px;
+    display: inline-block;
+    background: #e4556d;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 3px;
+    padding: 5px;
+    border: 1px solid black;
 }
